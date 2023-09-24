@@ -14,9 +14,6 @@ const { ccclass, property } = cc._decorator;
 
 @ccclass
 export default class StartContro extends cc.Component {
-  protected onLoad(): void {
-    this.onCallNative(1);
-  }
   onCallNative(indexScreen: number) {
     if (cc.sys.os === cc.sys.OS_ANDROID && cc.sys.isNative) {
       cc.log("nhay vao đây set native");
