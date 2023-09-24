@@ -1,0 +1,54 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.Stupimato",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": false,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.Stupimato",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "ec59a17b-a505-48bf-8e57-28a17a21db7b",
+  "title": "Mac28_Stupid",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4fade862-068b-4e",
+  "zipCompressJs": true,
+  "android": {
+    "packageName": "org.cocos2d.Stupimato"
+  },
+  "ios": {
+    "packageName": "org.cocos2d.Stupimato"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.Stupimato"
+  },
+  "win32": {},
+  "appBundle": false
+}
