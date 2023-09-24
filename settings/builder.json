@@ -13,15 +13,15 @@
   "fb-instant-games": {},
   "includeSDKBox": false,
   "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
+  "inlineSpriteFrames_native": false,
   "md5Cache": false,
   "mergeStartScene": false,
   "optimizeHotUpdate": false,
   "orientation": {
     "landscapeLeft": true,
-    "landscapeRight": false,
-    "portrait": false,
-    "upsideDown": false
+    "landscapeRight": true,
+    "portrait": true,
+    "upsideDown": true
   },
   "packageName": "org.cocos2d.Stupimato",
   "qqplay": {
@@ -30,7 +30,7 @@
     "zip": false
   },
   "startScene": "ec59a17b-a505-48bf-8e57-28a17a21db7b",
-  "title": "Mac28_Stupid",
+  "title": "HDSCAT",
   "webOrientation": "landscape",
   "wechatgame": {
     "REMOTE_SERVER_ROOT": "",
@@ -41,14 +41,26 @@
   "xxteaKey": "4fade862-068b-4e",
   "zipCompressJs": true,
   "android": {
-    "packageName": "org.cocos2d.Stupimato"
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "com.hds.catrossthesea"
   },
   "ios": {
+    "REMOTE_SERVER_ROOT": "",
     "packageName": "org.cocos2d.Stupimato"
   },
   "mac": {
-    "packageName": "org.cocos2d.Stupimato"
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.Stupimato",
+    "width": 1280
   },
-  "win32": {},
-  "appBundle": false
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "appBundle": false,
+  "mainCompressionType": "default",
+  "mainIsRemote": false,
+  "nativeMd5Cache": false
 }

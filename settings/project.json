@@ -43,7 +43,11 @@
   "excluded-modules": [
     "Geom Utils",
     "3D",
-    "3D Primitive"
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
   ],
   "facebook": {
     "appID": "",
@@ -65,7 +69,7 @@
     "right",
     "middle"
   ],
-  "last-module-event-record-time": 1638180666110,
+  "last-module-event-record-time": 1695554713022,
   "simulator-orientation": false,
   "simulator-resolution": {
     "height": 640,
@@ -74,5 +78,8 @@
   "use-customize-simulator": true,
   "use-project-simulator-setting": false,
   "assets-sort-type": "name",
-  "start-scene": "current"
+  "start-scene": "current",
+  "migrate-history": [
+    "cloud-function"
+  ]
 }
